@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Viraj!
-- 👀 I’m interested in Programming and DevOps
-- 🌱 I’m currently learning Coding Languages and Web Development
-- 💞️ I’m looking to collaborate on Coding projects
+- 👀 I’m interested in webdev.
+- 🌱 I’m currently learning webdev and algorithms.
 - 📫 How to reach me - Email me at vir200319@gmail.com
 
 <!---
