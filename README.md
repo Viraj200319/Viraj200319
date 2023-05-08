@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj</h1>
-<h3 align="center">A programmer that loves messing around with electronics :)</h3>
+<h3 align="center">I stay up all night staring at screens :)</h3>
 
 - 📝 I write articles on [https://virajsazzala.xyz](https://virajsazzala.xyz)
 
