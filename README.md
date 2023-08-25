@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viraj</h1>
 <h3 align="center">I stay up all night staring at screens :)</h3>
 
-- 📝 I write articles on [https://virajsazzala.xyz](https://virajsazzala.xyz)
+- 📝 My place on the web [https://virajsazzala.dev](https://virajsazzala.dev)
 
 - 📫 How to reach me **vir200319@gmail.com**
 
