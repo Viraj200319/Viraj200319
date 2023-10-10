@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Viraj!</h1>
-<h3 align="center">I stay up all night, staring at screens :)</h3>
+<h3 align="center">I stay up all night, listening to music and staring at screens :)</h3>
 
 - 📫 How to reach me [mail](mailto:vir200319@gmail.com) or [LinkedIn](https://linkedin.com/in/sng-viraj-reddy)
   
