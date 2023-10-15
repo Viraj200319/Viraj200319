@@ -6,7 +6,7 @@
 
 I'm a 19yr old, that stays up all night, staring at screens! <br>
 
-- 📝 Into Artificial Intelligence, Web Development and Cybersecurity <br>
+- 📝 Into CyberSec, ML and Web Development <br>
 
 - 📫 I write blogs @ [https://virajsazzala.dev](https://virajsazzala.dev)
 
