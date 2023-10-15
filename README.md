@@ -8,7 +8,7 @@ I'm a 19yr old, that stays up all night, staring at screens! <br>
 
 - 📝 Into Artificial Intelligence, Web Development and Cybersecurity <br>
 
-- 📫 My place on the web [https://virajsazzala.dev](https://virajsazzala.dev)
+- 📫 I write blogs @ [https://virajsazzala.dev](https://virajsazzala.dev)
 
 - 🌱 I’m currently learning **Tensorflow & DSA w/python**
 
